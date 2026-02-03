@@ -45,3 +45,5 @@ High performers (>=80): 6
 ## Submission
 - File: `main.cpp`
 - Upload to Canvas + GitHub repo
+- Code: https://replit.com/@isaacrvaz07/Assignment-4
+- Video: https://www.youtube.com/shorts/RO3PIb4fDZo 
